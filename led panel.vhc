@@ -1,0 +1,5 @@
+# MCU 8051 IDE: Virtual HW component configuration file
+# Project: priya
+# Component: LED Panel
+
+LedPanel {{4 - 0 0 5 - 1 - 6 - 2 - 7 - 3 -} {4 - 0 7 5 - 1 - 6 - 2 - 7 - 3 -} {} {} purple 1}
